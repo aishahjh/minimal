@@ -1,6 +1,14 @@
-title: Minimal theme
+
+title: <p align="center"> Aishah Jhumka </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  
+  <br>   
+  I am currently working on Data Science and Machine learning related problems.
+  <br>
+  </p>
+
+
 theme: jekyll-theme-minimal
